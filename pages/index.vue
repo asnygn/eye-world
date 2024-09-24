@@ -259,6 +259,7 @@
       </Container>
     </section>
   </main>
+  <Footer />
 </template>
 
 <style scopd>
