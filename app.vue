@@ -1,6 +1,7 @@
+<script setup>
+useHead({ title: "IQ Eye World" });
+</script>
+
 <template>
-  <div>
-    <NuxtRouteAnnouncer />
-    <NuxtWelcome />
-  </div>
+  <NuxtPage />
 </template>
